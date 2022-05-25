@@ -1,0 +1,30 @@
+body {
+    width: 600px;
+    margin: auto;
+    background-color: white;
+    padding: 0 20px 20px 20px;
+    
+}
+ h1 {
+     text-align: center;
+     margin: 0;
+     padding: 20px 0;
+     color: black;
+     text-shadow: 3px 3px 1px palevioletred;
+ }
+ img {
+     display: block;
+     margin: 0 auto;
+     width: 400px;
+ }
+ a {
+     color: red;
+     padding: 5px;
+ }
+ h2 {
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+    color: black;
+    text-shadow: 3px 3px 1px palevioletred;
+ }
